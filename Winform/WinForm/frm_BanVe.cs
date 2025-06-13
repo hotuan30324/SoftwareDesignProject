@@ -1,0 +1,27 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using BTL.QuanLyVe;
+using BTL.QuanLyChuyenBay;
+
+namespace BTL
+{
+    public partial class frm_BanVe : Form
+    {
+        public frm_BanVe()
+        {
+            InitializeComponent();
+        }
+
+        private void btnMua_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
